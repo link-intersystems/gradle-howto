@@ -1,0 +1,1 @@
+logger.lifecycle("service-conventions.gradle.kts")

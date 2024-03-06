@@ -1,0 +1,1 @@
+logger.lifecycle("library-conventions.gradle.kts")
